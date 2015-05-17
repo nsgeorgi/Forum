@@ -1,5 +1,5 @@
 = Rail's Forum
 I built a simple rail's forum application. We have the ability to sign up and sign in / out ... Add , Edit ,Destroy forum posts , and users can reply to each otehrs forum posts through comments..
 
-{View the demo application here}[http://http://railsroom.herokuapp.com/]
+{View the demo application here}[http://railsroom.herokuapp.com]
 
